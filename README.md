@@ -1,6 +1,6 @@
-<picture>
- <img alt="It's me" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80061209/243568017-161eeec3-7f24-4db9-8a97-9fed4aa23418.jpg">
+</p>
 
 # Hi I'm Rafael Oliva
 - :computer: I'm a Mechatronical Engineer with a Master in Business Administrator
