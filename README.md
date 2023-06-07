@@ -6,6 +6,10 @@
   <h1 >Hi I'm Rafael Oliva</h1>
 </div>
 
+---
+
 ### :computer: I'm a Mechatronical Engineer with a Master in Business Administrator
-### :bee: I’m working in Honeywell as a Mid Application Engineer
+### :bee: I’m working in Honeywell as a *Mid Application Engineer*
 ### 👓 Learning Dart and Flutter 
+---
+## Skills
