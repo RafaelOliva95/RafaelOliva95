@@ -13,3 +13,7 @@
 ### 👓 Learning Dart and Flutter 
 ---
 ## Skills
+- Languages:
+
+![Python](https://img.shields.io/badge/Python%20-%2314354C?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
