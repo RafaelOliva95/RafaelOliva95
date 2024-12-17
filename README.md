@@ -9,8 +9,8 @@
 ---
 # 💫 About Me:
 ### :computer: I'm a Mechatronical Engineer with a Master in Business Administrator
-### :bee: I’m working at Amazon as a *Mid Application Engineer* mainly working with C# and C++
-### 👓 Learning Dart and Flutter 
+### :bee: I’m working at Amazon as a *Software Support Engineer* mainly working with AWS, Java and Python
+### 👓 Learning Kotlin and Flutter 
 ---
 
 ## 🌐 Socials:
