@@ -9,7 +9,7 @@
 ---
 # 💫 About Me:
 ### :computer: I'm a Mechatronical Engineer with a Master in Business Administrator
-### :bee: I’m working in Honeywell as a *Mid Application Engineer* mainly working with C# and C++
+### :bee: I’m working at Amazon as a *Mid Application Engineer* mainly working with C# and C++
 ### 👓 Learning Dart and Flutter 
 ---
 
